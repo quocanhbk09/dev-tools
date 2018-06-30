@@ -1,0 +1,1 @@
+/Users/meolac/.config/fisherman/bass/functions/bass.fish

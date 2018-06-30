@@ -1,0 +1,1 @@
+/Users/meolac/.config/fisherman/nvm/completions/nvm.fish

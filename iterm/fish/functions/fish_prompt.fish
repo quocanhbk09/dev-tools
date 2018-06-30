@@ -1,0 +1,1 @@
+/Users/meolac/.config/fisherman/l/fish_prompt.fish
